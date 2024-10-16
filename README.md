@@ -46,7 +46,7 @@ This project focuses on detecting phishing websites by extracting and analyzing 
 - **XGBoost:** 86.2% Test Accuracy
 
 ## Project Structure
-- **data/:** Contains CSV files with phishing and legitimate URLs
+- **dataset/:** Contains CSV files with phishing and legitimate URLs
 - **results/:** Evaluation metrics and graphs
 
 ## How to Use
